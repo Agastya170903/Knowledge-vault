@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ANCIENT KNOWLEDGE VAULT/COMPLETE MASTER INDEX.md",
+                "file": "Biophotonic Healing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "COMPLETE MASTER INDEX"
+              "title": "Biophotonic Healing"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ff1809975523a6fe",
@@ -148,6 +147,16 @@
             }
           },
           {
+            "id": "6b078c203a32e12c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "76a63e506608512c",
             "type": "leaf",
             "state": {
@@ -177,21 +186,22 @@
             }
           },
           {
-            "id": "6b078c203a32e12c",
+            "id": "3aabf85b2b198a31",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "calendar",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,14 +217,22 @@
       "zk-prefixer:Create new unique note": false,
       "workspaces:Manage workspace layouts": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "remotely-save:Remotely Save": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6b078c203a32e12c",
+  "active": "3b558338972a9f9e",
   "lastOpenFiles": [
+    "Brain-Heart Coherence.md",
+    "Biophotonic Healing.md",
+    "Blue Lotus.md",
     "Basic Sacred Geometry.md",
-    "Ayurveda & Alchemy.md",
     "Ayahuasca & DMT.md",
+    "ANCIENT KNOWLEDGE VAULT/COMPLETE MASTER INDEX.md",
+    "Ayurveda & Alchemy.md",
     "Atlantis.md",
     "Astrological Geometry.md",
     "Astral Projection.md",
@@ -225,7 +243,6 @@
     "Angelic & Demonic Archetypes.md",
     "Akashic Records.md",
     "Advanced Kundalini.md",
-    "ANCIENT KNOWLEDGE VAULT/COMPLETE MASTER INDEX.md",
     "Global Elite Archetypes.md",
     "MKUltra & PsyOps.md",
     "Colonial & Imperial Erasures.md",
@@ -236,9 +253,6 @@
     "Unity Codes.md",
     "Religious Control Narratives.md",
     "Secret Societies & Orders.md",
-    "Simulation & Holographic Universe.md",
-    "Dreamwork & Lucid States.md",
-    "Reincarnation Systems.md",
     "ANCIENT KNOWLEDGE VAULT/References",
     "ANCIENT KNOWLEDGE VAULT",
     "Personal/Yash",
