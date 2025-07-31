@@ -11,10 +11,24 @@
             "id": "3b558338972a9f9e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Chakras in Depth.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Chakras in Depth"
             }
           }
         ]
@@ -212,14 +226,16 @@
   },
   "active": "3b558338972a9f9e",
   "lastOpenFiles": [
+    "Cannabis as Sacrament.md",
+    "Brain-Heart Coherence.md",
     "Blue Lotus.md",
     "Biophotonic Healing.md",
-    "Brain-Heart Coherence.md",
+    "Atlantis.md",
+    "Chakras in Depth.md",
     "Basic Sacred Geometry.md",
     "Ayahuasca & DMT.md",
     "ANCIENT KNOWLEDGE VAULT/COMPLETE MASTER INDEX.md",
     "Ayurveda & Alchemy.md",
-    "Atlantis.md",
     "Astrological Geometry.md",
     "Astral Projection.md",
     "ANCIENT KNOWLEDGE VAULT/Untitled.canvas",
@@ -237,8 +253,6 @@
     "Starseed Lineages.md",
     "Galactic Histories.md",
     "Unity Codes.md",
-    "Religious Control Narratives.md",
-    "Secret Societies & Orders.md",
     "ANCIENT KNOWLEDGE VAULT/References",
     "ANCIENT KNOWLEDGE VAULT",
     "Personal/Yash",
