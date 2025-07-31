@@ -2,7 +2,7 @@ _The Living Codex of Forgotten Wisdom_
 
 ---
 
-## **Layer 0 — Foundations: Body, Mind & Sacred Science**
+## **Layer 0— Foundations: Body, Mind & Sacred Science**
 
 > _Grounding practices: the body as a temple, the mind as a tool, consciousness as a field to be trained._
 
