@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Merkabah.md",
+                "file": "Mesopotamian Rituals.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Merkabah"
+              "title": "Mesopotamian Rituals"
+            }
+          },
+          {
+            "id": "4ea87dae1758bb66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Yoga Systems.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Yoga Systems"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,45 +249,44 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3b558338972a9f9e",
+  "active": "4ea87dae1758bb66",
   "lastOpenFiles": [
-    "Meditation & Awareness Training.md",
-    "Mantra Science.md",
-    "Living Mythology.md",
-    "Lemuria.md",
-    "Koshas & Sheaths.md",
-    "Indigenous Shamanism.md",
-    "Iboga & African Medicines.md",
-    "Hermeticism.md",
-    "Greco-Roman Mysteries.md",
-    "Golden Ratio & Fibonacci Sequence.md",
-    "Global Elite Archetypes.md",
-    "Galactic Histories.md",
-    "Flower of Life & Seed of Life.md",
-    "Egyptian Mysteries.md",
-    "Dreamwork & Lucid States.md",
-    "Cymatics in Geometry.md",
-    "Cymatics & Resonance.md",
-    "Consciousness Mapping.md",
-    "Color Therapy.md",
-    "Colonial & Imperial Erasures.md",
-    "Chakras in Depth.md",
-    "Cannabis as Sacrament.md",
-    "Brain-Heart Coherence.md",
-    "Blue Lotus.md",
-    "Biophotonic Healing.md",
-    "Atlantis.md",
+    "ANCIENT KNOWLEDGE VAULT/COMPLETE MASTER INDEX.md",
+    "ANCIENT KNOWLEDGE VAULT/Layer 9",
+    "ANCIENT KNOWLEDGE VAULT/Layer 8",
+    "ANCIENT KNOWLEDGE VAULT/Layer 7",
+    "ANCIENT KNOWLEDGE VAULT/Layer 6",
+    "ANCIENT KNOWLEDGE VAULT/Layer 5",
+    "ANCIENT KNOWLEDGE VAULT/Layer 4",
+    "ANCIENT KNOWLEDGE VAULT/Layer 3",
+    "ANCIENT KNOWLEDGE VAULT/Layer 2",
+    "ANCIENT KNOWLEDGE VAULT/Layer 1",
+    "ANCIENT KNOWLEDGE VAULT/Layer 0",
     "ANCIENT KNOWLEDGE VAULT/Untitled.canvas",
-    "ANCIENT KNOWLEDGE VAULT/References",
-    "ANCIENT KNOWLEDGE VAULT",
-    "Personal/Yash",
-    "Personal/ME",
-    "Personal",
-    "Underground Thread Vault/Guide",
-    "Underground Thread Vault/Books",
-    "UFO",
-    "9",
-    "Underground Thread Vault/Additional Topics",
+    "Ayahuasca & DMT.md",
+    "Atlantis.md",
+    "Astrological Geometry.md",
+    "Astral Projection.md",
+    "Astral Gateways.md",
+    "Antarctica Mysteries.md",
+    "Angelic & Demonic Archetypes.md",
+    "Ancient Priesthoods.md",
+    "Akashic Records.md",
+    "Advanced Kundalini.md",
+    "Yoga Systems.md",
+    "ANCIENT KNOWLEDGE VAULT/Layer 0/Visualization Practices.md",
+    "Vedic Cosmology.md",
+    "Vatican Archives.md",
+    "Unity Codes.md",
+    "Tesla’s Vibrational Mysticism.md",
+    "Tesla & Free Energy.md",
+    "Temple Schools & Initiations.md",
+    "Tartarian & Mud Flood Theories.md",
+    "Tartaria & Mud Floods.md",
+    "Tantric Systems.md",
+    "Sumerian Teachings.md",
+    "Subtle & Causal Bodies.md",
+    "Starseed Lineages.md",
     "Untitled.canvas"
   ]
 }
