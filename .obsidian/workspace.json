@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dc3530dfe565f962",
+        "id": "c4fc0005ca53db27",
         "type": "tabs",
         "children": [
           {
-            "id": "3b558338972a9f9e",
+            "id": "44324e262d3ca773",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ancient Knowledge/Layer 1/Mesopotamian Rituals.md",
+                "file": "Personal Codex/Daily Life/Evening Rituals.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mesopotamian Rituals"
-            }
-          },
-          {
-            "id": "4ea87dae1758bb66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ambassador Program.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ambassador Program"
+              "title": "Evening Rituals"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,13 +224,32 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4ea87dae1758bb66",
+  "active": "44324e262d3ca773",
   "lastOpenFiles": [
+    "Personal Codex/Daily Life/Morning Rituals.md",
+    "Personal Codex/Daily Life/Daily Journals.md",
+    "Ancient Knowledge/COMPLETE MASTER INDEX.md",
+    "Ancient Knowledge/Layer 1/Mesopotamian Rituals.md",
+    "Brand codex/Founder notes/Future Experiments.md",
     "Brand codex/Index.md",
-    "Ambassador Program.md",
-    "Community Building.md",
-    "Reels Lab.md",
-    "Content Strategy.md",
+    "Brand codex/Founder notes/Lessons & Iterations.md",
+    "Brand codex/Founder notes/Personal Vision for TRK.md",
+    "Brand codex/Founder notes",
+    "Brand codex/Cultural Impact/Collaborations.md",
+    "Brand codex/Cultural Impact/Educational Outreach.md",
+    "Brand codex/Cultural Impact",
+    "Brand codex/Cultural Impact/Cannabis Decolonization.md",
+    "Brand codex/Operations & Growth/Marketing Funnel.md",
+    "Brand codex/Operations & Growth/Legal & Compliance.md",
+    "Brand codex/Operations & Growth/Suppliers & Distribution.md",
+    "Brand codex/Operations & Growth/Business Model.md",
+    "Brand codex/Operations & Growth",
+    "Brand codex/Untitled.md",
+    "Brand codex/Content & Community/Operations & Growth",
+    "Brand codex/Content & Community/Ambassador Program.md",
+    "Brand codex/Content & Community/Community Building.md",
+    "Brand codex/Content & Community/Reels Lab.md",
+    "Brand codex/Content & Community/Content Strategy.md",
     "Brand codex/Content & Community",
     "Brand codex/Products and Offering/Future Roadmap.md",
     "Brand codex/Products and Offering/Smoke Line (D2C).md",
@@ -264,29 +258,10 @@
     "Brand codex/Products and Offering",
     "Brand codex/Products and Offering/Clothing Line.md",
     "Brand codex/Mythos & Narrative/Narrative Layers.md",
-    "Brand codex/Mythos & Narrative/Sacred Plant Positioning.md",
-    "Brand codex/Mythos & Narrative/Origin Story.md",
-    "Brand codex/Mythos & Narrative/The TRK Mythology.md",
     "Brand codex/Mythos & Narrative",
-    "Brand codex/Brand DNA/Brand Story.md",
-    "Brand codex/Brand DNA/Core Values.md",
-    "Brand codex/Brand DNA/Vision & Mission.md",
     "Brand codex/Brand DNA",
-    "Ancient Knowledge/COMPLETE MASTER INDEX.md",
-    "Personal Codex/Bhagavad Gita & Sacred Teaching/Gita Practices.md",
     "Brand codex",
-    "Brand Codex.md",
-    "Ancient Knowledge/Layer 6/MKUltra & PsyOps.md",
-    "Ancient Knowledge/Layer 3/Cymatics & Resonance.md",
-    "Ancient Knowledge/Layer 0/Mudras & Bandhas.md",
-    "Ancient Knowledge/Layer 0/Meditation & Awareness Training.md",
-    "Ancient Knowledge/Layer 0/Consciousness Mapping.md",
-    "Ancient Knowledge/Layer 0/Chakras in Depth.md",
     "Personal Codex/Body & Health",
-    "Personal Codex/Vision & Purpose",
-    "Personal Codex/Growth and learning",
-    "Personal Codex/Bhagavad Gita & Sacred Teaching",
-    "Personal Codex/Emotional & Spiritual healing",
     "ANCIENT KNOWLEDGE VAULT/Untitled.canvas",
     "Untitled.canvas"
   ]
