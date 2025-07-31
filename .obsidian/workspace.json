@@ -11,24 +11,10 @@
             "id": "3b558338972a9f9e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biophotonic Healing.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Biophotonic Healing"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -226,9 +212,9 @@
   },
   "active": "3b558338972a9f9e",
   "lastOpenFiles": [
-    "Brain-Heart Coherence.md",
-    "Biophotonic Healing.md",
     "Blue Lotus.md",
+    "Biophotonic Healing.md",
+    "Brain-Heart Coherence.md",
     "Basic Sacred Geometry.md",
     "Ayahuasca & DMT.md",
     "ANCIENT KNOWLEDGE VAULT/COMPLETE MASTER INDEX.md",
