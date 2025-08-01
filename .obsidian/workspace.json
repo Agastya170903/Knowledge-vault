@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Codex/Index.md",
+                "file": "Study Codex/CAT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "CAT"
             }
           }
         ]
@@ -226,10 +226,11 @@
   },
   "active": "44324e262d3ca773",
   "lastOpenFiles": [
-    "Study Codex/Quantum & Classical Sciences.md",
-    "Study Codex/Index.md",
-    "Study Codex/CAT.md",
     "Study Codex/GMAT.md",
+    "Study Codex/Index.md",
+    "Study Codex/Quantum & Classical Sciences.md",
+    "Study Codex/Sanskrit Learning.md",
+    "Study Codex/CAT.md",
     "Brand codex/Operations & Growth/Marketing Funnel.md",
     "Brand codex/Operations & Growth/Business Model.md",
     "Brand codex/Mythos & Narrative/The TRK Mythology.md",
@@ -251,7 +252,6 @@
     "Brand codex/Brand DNA/Brand Story.md",
     "Brand codex/Brand DNA/Archetypes & Tone.md",
     "Ancient Knowledge/Layer 0/Visualization Practices.md",
-    "Ancient Knowledge/Layer 0/Mudras & Bandhas.md",
     "Study Codex/Sem",
     "Study Codex",
     "Brand codex/Founder notes",
