@@ -99,9 +99,5 @@ _Next-year courses with detailed breakdowns._
 
 ### **4. [[Specialized Learning]]**
 
-- [[AI & Machine Learning]] — Python + frameworks (TensorFlow, PyTorch).
-    
-- [[Mythology & Cultural Studies]] — Comparative notes for TRK myth-building.
-    
 - [[Quantum & Classical Sciences]] — Concept maps, simplified breakdowns.
     
